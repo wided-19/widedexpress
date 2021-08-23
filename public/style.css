@@ -1,0 +1,77 @@
+body{
+    margin:0;
+    padding: 0;
+    width: 100%;
+}
+header{
+    margin: 0 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+main{
+    background-color:aliceblue; 
+    margin: 0 30px;
+}
+.NavBar{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 20px 0;
+    color:red;
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 0;
+    overflow: hidden;
+
+}
+li{
+    padding-left: 50px;
+}
+.home{
+    text-decoration: underline;
+    color: red;
+}
+.contact{
+ text-decoration: underline;
+ color: red;
+
+}
+.services{
+    text-decoration: underline;
+    color: red;
+}
+
+.Link{
+    color: red;
+    text-decoration: none;
+}
+.home-img{
+    height: 1000px;
+    width: 100%;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    top: 14px;
+
+}
+
+
+h5{
+    margin: 0;
+    position: relative;
+    bottom: 700px;
+    text-align: center;
+    font-size: 50px;
+    color:red;
+    font-weight: bold;    
+    margin-top: 60px;
+
+}
+
+
+.logo-name{
+    display: flex;
+    align-items: baseline;
+}
